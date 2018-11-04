@@ -335,11 +335,11 @@ body.page-template-page-fullsingle-split p {
 .split-nav h3 a {
   font-weight: 400;
   text-transform: uppercase;
-  font-size: 15px;
-  line-height: 20px;
+  font-size: 16px;
+  line-height: 16px;
   margin-right: 1em;
   color: #47bec7;
-  letter-spacing: 2px;
+  letter-spacing: 0.4px;
   opacity: 1.0;
   transition-duration: 0.5s;
 }
