@@ -137,7 +137,7 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .fs-split .split-image {
-  width: 40%;
+  width: 36%;
   height: 100vh;
   background-size: cover;
 }
@@ -148,7 +148,7 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .fs-split .split-content {
-  width: 60%;
+  width: 64%;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -162,19 +162,19 @@ body.page-template-page-fullsingle-split p {
   }
 }
 .fs-split .split-content .split-content-vertically-center {
-  padding: 80px;
+  padding: 70px;
   max-width: 1200px;
   margin-top: auto;
   margin-bottom: auto;
 }
 @media (max-width: 1200px) {
   .fs-split .split-content .split-content-vertically-center {
-    padding: 60px;
+    padding: 50px;
   }
 }
 @media (max-width: 800px) {
   .fs-split .split-content .split-content-vertically-center {
-    padding: 40px;
+    padding: 35px;
   }
 }
 
