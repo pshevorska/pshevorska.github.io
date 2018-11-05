@@ -178,6 +178,14 @@ body.page-template-page-fullsingle-split p {
   }
 }
 
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
+}
+
 .split-intro {
   font-weight: 600;
   font-size: 54px;
