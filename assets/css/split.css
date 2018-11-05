@@ -116,7 +116,7 @@ body.page-template-page-fullsingle-split {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 33px;
+  line-height: 24px;
   letter-spacing: -0.2px;
   color: #848d96;
   animation: fadein 2s;
@@ -151,8 +151,8 @@ body.page-template-page-fullsingle-split p {
   width: 64%;
   min-height: 100vh;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: top;
+  justify-content: left;
   overflow: auto;
 }
 @media (max-width: 800px) {
