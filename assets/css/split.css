@@ -157,7 +157,7 @@ body.page-template-page-fullsingle-split p {
 }
 @media (max-width: 800px) {
   .fs-split .split-content {
-    width: 64%;
+    width: 100%;
     height: auto;
   }
 }
