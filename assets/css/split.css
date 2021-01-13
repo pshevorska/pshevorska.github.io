@@ -207,12 +207,12 @@ body.page-template-page-fullsingle-split p {
 }
 
 .split-bio {
-  padding: 0 0 0 0;
+  padding: 0 0 20px 0;
   font-family: "Montserrat", sans-serif;
 }
 @media (max-width: 1200px) {
   .split-bio {
-    padding: 0 0 0 0;
+    padding: 0 0 10px 0;
   }
 }
 @media (max-width: 800px) {
